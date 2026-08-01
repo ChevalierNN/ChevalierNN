@@ -1,12 +1,9 @@
 # Привет! Я Кирилл 
 
-**System Analyst in Progress**
-
 ## Обо мне
 
-Я начинающий **System Analyst** с техническим бэкграундом в разработке.
+Я начинающий IT.
 
-Изучаю: **System Analysis, REST API**  
 Уже умею: **C#, WPF, MS SQL Server, HTML/CSS, UML/BPMN, проектирование БД**  
 Как со мной связаться: [Telegram](https://t.me/Honfleure) | kirill.pronin.nn@gmail.com
 
