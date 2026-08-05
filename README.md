@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-Я начинающий IT.
+Я начинающий специалист в IT.
 
 Уже умею: **C#, WPF, MS SQL Server, HTML/CSS, UML/BPMN, проектирование БД**  
 Как со мной связаться: [Telegram](https://t.me/Honfleure) | kirill.pronin.nn@gmail.com
